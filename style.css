@@ -1,0 +1,30 @@
+canvas{
+    border-style: solid;
+    border-color: pink;
+    box-shadow: 5px;
+    border-radius: 25px;
+}
+
+
+.imp{
+    color:black;
+}
+
+.footer{
+    bottom: 0;
+    width:100%;
+    position:fixed;
+    color:white;
+    background-color: gray;
+    text-align:center;
+    line-height: 25px;
+}
+
+.veritasium{
+    width:100%;
+    font-size: 16px;
+}
+
+body{
+    background-image:url("rain.jpg");
+}
